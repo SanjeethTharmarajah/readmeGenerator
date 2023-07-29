@@ -25,6 +25,9 @@ SO THAT I can quickly create a professional README for a new project
 
 # Achievements
 
+Video link how program works
+
+https://drive.google.com/file/d/15v_w5TXQg6TqsvBMvbKoMKw2cqazzgk3/view
 
 
 
